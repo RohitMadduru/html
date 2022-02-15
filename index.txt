@@ -1,0 +1,13 @@
+
+<html>
+<head>
+<title>
+Images
+</title>
+</head>
+<body>
+ <img src="download.jpg">
+ <br>
+ <img src="https://images8.alphacoders.com/594/thumb-1920-594870.jpg" height="400" width="400">
+</body>
+</html>
